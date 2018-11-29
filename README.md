@@ -1,3 +1,5 @@
+[](https://github.com/harshitahluwalia7895/appliedai-workshop-/blob/master/Beechtown%20High%20Graduation.png)
+
 # How to enroll into appliedaicourse workshop 
 
 ## Step 1:
