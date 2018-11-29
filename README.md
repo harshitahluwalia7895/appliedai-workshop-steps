@@ -29,6 +29,6 @@ Enter the Billing address and all other related informations and then accept all
 
 ## Step 8:
 Again click on Courses -> Workshop .
-Congratulations Your free workshop is with you !
+Congratulations Your free workshop is with you ! Special Thanks to ![kanav Bansal](https://github.com/bansalkanav)
 
 If you are a # Machine Learning enthusiast then go Check this out : [100 Days of MLCode](https://github.com/harshitahluwalia7895/100DaysOfMLCode)
