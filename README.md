@@ -1,3 +1,6 @@
+If you are a # Machine Learning enthusiast then go Check this out : [100 Days of MLCode](https://github.com/harshitahluwalia7895/100DaysOfMLCode)
+
+
 ![alt text](https://github.com/harshitahluwalia7895/appliedai-workshop-steps/blob/master/Steps%20for%20enrolling%20into%20Workshop%20(1).png)
 
 # How to enroll into appliedaicourse workshop 
@@ -31,4 +34,3 @@ Enter the Billing address and all other related informations and then accept all
 Again click on Courses -> Workshop .
 Congratulations Your free workshop is with you ! Special Thanks to [kanav Bansal](https://github.com/bansalkanav)
 
-If you are a # Machine Learning enthusiast then go Check this out : [100 Days of MLCode](https://github.com/harshitahluwalia7895/100DaysOfMLCode)
