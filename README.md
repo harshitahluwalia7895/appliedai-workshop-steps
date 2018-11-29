@@ -1,3 +1,4 @@
+![alt text](https://github.com/harshitahluwalia7895/appliedai-workshop-steps/blob/master/Steps%20for%20enrolling%20into%20Workshop.png)
 
 # How to enroll into appliedaicourse workshop 
 
