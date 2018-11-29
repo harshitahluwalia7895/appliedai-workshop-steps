@@ -34,3 +34,6 @@ Enter the Billing address and all other related informations and then accept all
 Again click on Courses -> Workshop .
 Congratulations Your free workshop is with you ! Special Thanks to [kanav Bansal](https://github.com/bansalkanav)
 
+
+# Certification of Mine 
+![alt text](https://github.com/harshitahluwalia7895/appliedai-workshop-steps/blob/master/Harshit%20Ahluwalia%20(1).jpg)
